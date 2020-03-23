@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/featureModel/languageComposition.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/list/list.mpl" folder="featuresetEditing" />
+      <modulePath path="$PROJECT_DIR$/languages/mle.core/rootfile.mpl" folder="core" />
+      <modulePath path="$PROJECT_DIR$/languages/mle.extraction.calc/number.mpl" folder="featuresetEditing" />
+      <modulePath path="$PROJECT_DIR$/languages/mle.extraction.text/string.mpl" folder="featuresetEditing" />
+      <modulePath path="$PROJECT_DIR$/languages/mle.extraction/base.mpl" folder="featuresetEditing" />
+      <modulePath path="$PROJECT_DIR$/languages/preprocessing/preprocessing.mpl" folder="preprocessing" />
+      <modulePath path="$PROJECT_DIR$/languages/stringlist/stringlist.mpl" folder="featuresetEditing" />
+      <modulePath path="$PROJECT_DIR$/languages/testBranch/testBranch.mpl" folder="test" />
+      <modulePath path="$PROJECT_DIR$/languages/testChildLangA/testChildLangA.mpl" folder="test" />
+      <modulePath path="$PROJECT_DIR$/languages/testChildLangB/testChildLangB.mpl" folder="test" />
+      <modulePath path="$PROJECT_DIR$/languages/testChildLangC/testChildLangC.mpl" folder="test" />
+      <modulePath path="$PROJECT_DIR$/solutions/mle.sandbox/mle.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

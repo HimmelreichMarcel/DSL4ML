@@ -1,0 +1,56 @@
+# mps
+_spreferences/
+source_gen/
+source_gen.caches/
+classes_gen/
+*.iws
+
+# latex
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.lol
+*-blx.bib
+
+# iPad (Research)
+*.icloud
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+server/.idea/libraries/R_User_Library.xml
+.idea/libraries/R_User_Library.xml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/Bitbucket.iml
+.idea/vcs.xml
+
+server/\.idea/misc\.xml
+
+server/\.idea/server\.iml
+
+server/Main\.py
+
+server/ToDo

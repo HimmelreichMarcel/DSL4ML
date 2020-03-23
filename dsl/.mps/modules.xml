@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/comment/comment.mpl" folder="mle.core.statements" />
+      <modulePath path="$PROJECT_DIR$/languages/composition/composition.mpl" folder="mle.core" />
+      <modulePath path="$PROJECT_DIR$/languages/copy/copy.mpl" folder="mle.core.statements" />
+      <modulePath path="$PROJECT_DIR$/languages/core/core.mpl" folder="mle.core" />
+      <modulePath path="$PROJECT_DIR$/languages/core/sandbox/core.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/create/create.mpl" folder="mle.core.statements" />
+      <modulePath path="$PROJECT_DIR$/languages/edit/edit.mpl" folder="mle.core.statements" />
+      <modulePath path="$PROJECT_DIR$/languages/estimator/estimator.mpl" folder="mle.types" />
+      <modulePath path="$PROJECT_DIR$/languages/features/features.mpl" folder="mle.types" />
+      <modulePath path="$PROJECT_DIR$/languages/featuresEditing/featuresEditing.mpl" folder="mle.preprocessing" />
+      <modulePath path="$PROJECT_DIR$/languages/join/join.mpl" folder="mle.core.statements" />
+      <modulePath path="$PROJECT_DIR$/languages/languageProcessor/languageProcessor.mpl" folder="mle.types" />
+      <modulePath path="$PROJECT_DIR$/languages/list/list.mpl" folder="mle.preprocessing" />
+      <modulePath path="$PROJECT_DIR$/languages/model/model.mpl" folder="mle.types" />
+      <modulePath path="$PROJECT_DIR$/languages/nlp/nlp.mpl" folder="mle.preprocessing" />
+      <modulePath path="$PROJECT_DIR$/languages/numList/numList.mpl" folder="mle.preprocessing" />
+      <modulePath path="$PROJECT_DIR$/languages/number/number.mpl" folder="mle.preprocessing" />
+      <modulePath path="$PROJECT_DIR$/languages/print/print.mpl" folder="mle.core.statements" />
+      <modulePath path="$PROJECT_DIR$/languages/split/split.mpl" folder="mle.core.statements" />
+      <modulePath path="$PROJECT_DIR$/languages/statements/statements.mpl" folder="mle.core" />
+      <modulePath path="$PROJECT_DIR$/languages/store/store.mpl" folder="mle.core.statements" />
+      <modulePath path="$PROJECT_DIR$/languages/strList/strList.mpl" folder="mle.preprocessing" />
+      <modulePath path="$PROJECT_DIR$/languages/string/string.mpl" folder="mle.preprocessing" />
+      <modulePath path="$PROJECT_DIR$/languages/style/style.mpl" folder="mle.core" />
+      <modulePath path="$PROJECT_DIR$/languages/types/types.mpl" folder="mle.types" />
+      <modulePath path="$PROJECT_DIR$/languages/wordlist/wordlist.mpl" folder="mle.types" />
+      <modulePath path="$PROJECT_DIR$/solutions/requests/requests.msd" folder="mle.core" />
+    </projectModules>
+  </component>
+</project>
